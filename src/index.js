@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//Librería que hace instalar las dependencias necesarias para poder renderizar React en el navegador
 ReactDOM.render(
   <React.StrictMode>
     <App />
