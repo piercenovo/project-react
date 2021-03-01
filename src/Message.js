@@ -1,4 +1,4 @@
-// Forma muy corta
+// Forma muy corta (One Liner)
 // const Message = ({ color, message }) => <h1 style={{ color }}>{message}</h1>
 
 // Forma corta
